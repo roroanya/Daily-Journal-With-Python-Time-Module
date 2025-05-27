@@ -1,7 +1,6 @@
 ## 📘 Daily Journal with Python time Module
 
-This is a simple terminal-based daily journal app written in Python 
-It uses the built-in time module to automatically timestamp each entry, making it easy to track when notes were added
+This is a simple terminal-based daily journal app written in Python . It uses the built-in time module to automatically timestamp each entry, making it easy to track when notes were added
 
 ---
 
